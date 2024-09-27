@@ -1,9 +1,10 @@
 # DynamicZebra
-一套Android原生轻动态化响应式开发框架，支持动态化开发
+一套Android原生轻动态化响应式开发框架，支持动态化更新
 
 ## 效果预览
 <img src="file/demo.gif"/>
-上面是视频专为的gif图哈，看着有些卡顿，实际效果非常流畅。
+该效果视频转为的gif图哈，看着有些卡顿，实际效果非常流畅。
+[可点击下载视频查看](https://github.com/wu928320442/DynamicZebra/raw/refs/heads/main/file/demo.mp4)
 
 ## 1.普通模板
 <img src="file/1.png"/>
